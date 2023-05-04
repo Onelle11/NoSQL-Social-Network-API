@@ -28,4 +28,4 @@ https://drive.google.com/file/d/14dp-d2EzdM0CMwVwREy8LqJ5CRUDOnJM/view
 
 ## Screenshot
 
-<img src="./assets/NoSQL-Social-Network-API" alt="screenshot">
+<img src="./assets/NoSQL-Social-Network-API.png" alt="screenshot">
