@@ -29,3 +29,7 @@ https://drive.google.com/file/d/14dp-d2EzdM0CMwVwREy8LqJ5CRUDOnJM/view
 ## Screenshot
 
 <img src="./assets/NoSQL-Social-Network-API.png" alt="screenshot">
+
+## Notes
+
+I have been receiving tutoring from my friend who works at Microsoft, and they have provided me with all the resources I needed to complete this challenge. 
